@@ -65,7 +65,7 @@ The management of WixSin Company required a comprehensive analysis of their sale
 
 - INDEX-MATCH:	Used for flexible lookups when merging data across sheets
 
-- IF, TEXT, LEFT, LEN, MID:	For column creation, data cleanup, and formatting
+- IF, TEXT :	For column creation, data cleanup, and formatting
 
 - Named Ranges:	To simplify formula references in dashboard sections
 
