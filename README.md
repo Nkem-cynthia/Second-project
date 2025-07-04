@@ -7,10 +7,19 @@
 - [Tools and it functions](#tools-and-it-functions)
 - [Key Insights Extracted](#key-insights-extracted)
 - [Dashboard Design Highlights](#dashboard-design-highlights)
+- [Challenges](#challenges)
 - [Deliverables](#deliverables)
 
 ### Project Overview
 The management of WixSin Company required a comprehensive analysis of their sales data to support revenue optimization. As the assigned Data Analyst, I was tasked to consolidate multiple datasets and building a professional, interactive Excel dashboard that reveals key business insights. The goal was to identify trends, top-performing products, and customer segments to inform strategic decisions.
+
+![Screenshot 2025-07-03 211206](https://github.com/user-attachments/assets/a1c2f993-31ba-49a1-b61e-29ac8f48ca54)
+
+![Screenshot 2025-07-03 211136](https://github.com/user-attachments/assets/3d6facb2-8cea-4cc6-9797-220f51148fbd)
+
+![Screenshot 2025-07-03 211109](https://github.com/user-attachments/assets/eb50927a-1356-41ba-be1e-4194dc47600d)
+
+![Screenshot 2025-07-03 211047](https://github.com/user-attachments/assets/ba93ba4e-abdd-4b6a-bddd-8d0e031b2a33)
 
 
 ### Objectives
@@ -47,6 +56,8 @@ The management of WixSin Company required a comprehensive analysis of their sale
 
   - Designed a visually appealing and interactive dashboard using slicers, KPIs, and charts.
 
+![Screenshot 2025-07-03 211005](https://github.com/user-attachments/assets/5c1ce7ab-c1c3-4873-bfd1-f5d61d52b793)
+
 ### Tools and it functions
 - PivotTables & Charts: To summarize and visualize data by category, segment, and region
 
@@ -78,11 +89,7 @@ The management of WixSin Company required a comprehensive analysis of their sale
 
 - Top Product: Maximus UM-5 ($524,285)
 
-
-| Challenges | Solution |
-|----------- | -------- |
-| While trying to copy the Sum of Revenue from the PivotTable to the dashboard, the value wouldn’t appear, even after using the GETPIVOTDATA function and keyboard shortcuts. | After troubleshooting, I discovered the issue was caused by a background shape covering the cell. Once I removed the shape, the data appeared correctly and the KPI card updated as expected.|
-
+![Screenshot 2025-07-03 210934](https://github.com/user-attachments/assets/8786b174-a99f-41fc-81fb-668ca12b2c3e)
 
 ### Dashboard Design Highlights
 - Color Theme: Deep Indigo, Coral Peach, Mustard Gold, and Neutral Beige
@@ -94,8 +101,13 @@ The management of WixSin Company required a comprehensive analysis of their sale
   - Visuals arranged by insights: category, location, time, and product
 
   - Trophies highlight top product and segment.
+  
+![Screenshot 2025-07-03 210846](https://github.com/user-attachments/assets/add2fc30-2d80-4b41-aca2-e633f28b61cf)
 
-
+### Challenges
+| Challenges | Solution |
+|----------- | -------- |
+| While trying to copy the Sum of Revenue from the PivotTable to the dashboard, the value wouldn’t appear, even after using the GETPIVOTDATA function and keyboard shortcuts. | After troubleshooting, I discovered the issue was caused by a background shape covering the cell. Once I removed the shape, the data appeared correctly and the KPI card updated as expected.|
  
   ### Deliverables
   
@@ -108,3 +120,5 @@ The management of WixSin Company required a comprehensive analysis of their sale
 - Insight-driven executive summary
 
 - Documentation of workflow, tools, and problem-solving process
+
+[WixSin Sales Analysis.xlsx](https://github.com/user-attachments/files/21050476/WixSin.Sales.Analysis.xlsx)
